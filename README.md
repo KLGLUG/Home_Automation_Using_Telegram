@@ -1,5 +1,5 @@
 # Home_Automation_Using_Telegram
-# home_automation_using_telegram_bots
+
 Author VUYYURU RAJA SHEKAR REDDY 
 
 
@@ -51,8 +51,8 @@ Telegram bots are public, that means that every user can send messages to them.
  I added in the code a check on the ID of the user that is sending commands to the bot:
  
 
- $ sudo node user.js
- $sudo node bot.js
+ 
+ $sudo node  rasbot.js
   
   
 creating bot in Telegram:
