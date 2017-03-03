@@ -48,7 +48,7 @@ Security:
 
 Telegram bots are public, that means that every user can send messages to them.
  To be sure that my bot will answer only to me,
- I added in the code a check on the ID of the user that is sending commands to the bot:
+ 
  
 
  
